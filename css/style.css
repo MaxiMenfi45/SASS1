@@ -1,0 +1,12 @@
+h1 {
+  color: green; }
+
+/*Hola*/
+header {
+  margin: 100px;
+  padding: 200px;
+  background-color: #d112d1; }
+  header h1 {
+    color: blue;
+    font-size: 2rem;
+    font-size: large; }
